@@ -1,0 +1,8 @@
+{
+  "name": "SentinelTrack AI",
+  "description": "A human-autonomy teaming interface for target tracking with dwell-based interaction and AI takeover logic.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
